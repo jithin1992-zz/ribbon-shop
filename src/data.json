@@ -1,0 +1,390 @@
+{
+    "results" : [
+                    {
+                        "itemID": "500",
+                        "itemName":"Shakes",
+                        "itemColor":"#f62459",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "5001",
+                                                "name": "Chocolate", 
+                                                "price":"60",
+                                                "desc":"chocolate,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "5002",
+                                                "name": "Strawberry",
+                                                "price":"60",
+                                                "desc":"strawberry,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "5005",
+                                                "name": "Butter Scotch",
+                                                "price":"60",
+                                                "desc":"butter scotch,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "5007",
+                                                "name": "Oreo",
+                                                "price":"80",
+                                                "desc":"oreo,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "5006",
+                                                "name": "Vanila",
+                                                "price":"60",
+                                                "desc":"vanilla,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "5003",
+                                                "name": "Fudge",
+                                                "price":"80",
+                                                "desc":"chocolate,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "5004",
+                                                "name": "Black current",
+                                                "price":"70",
+                                                "desc":"chocolate,milk,sugar,flavours,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "600",
+                        "itemName":"Juices",
+                        "itemColor":"#875f9a",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "6001",
+                                                "name": "Orange",
+                                                "price":"50",
+                                                "desc":"orange,sugar,flavours"
+                                            },
+                                            {
+                                                "subItemID": "6002",
+                                                "name": "Strawberry",
+                                                "price":"60",
+                                                "desc":"strawberry,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "6005",
+                                                "name": "Apple",
+                                                "price":"90",
+                                                "desc":"apple,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "6007",
+                                                "name": "Musambi",
+                                                "price":"50",
+                                                "desc":"musambi,milk,sugar,flavours,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "700",
+                        "itemName":"Falooda",
+                        "itemColor":"#2ed573",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "7001",
+                                                "name": "Royal Falooda",
+                                                "price":"90",
+                                                "desc":"icecream,nuts,sugar,flavours"
+                                            },
+                                            {
+                                                "subItemID": "7002",
+                                                "name": "Special Falooda",
+                                                "price":"100",
+                                                "desc":"icecream,nuts,sugar,flavours"
+                                            },
+                                            {
+                                                "subItemID": "7005",
+                                                "name": "Triplets",
+                                                "price":"90",
+                                                "desc":"icecream,milk,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "7007",
+                                                "name": "Coco Falooda",
+                                                "price":"80",
+                                                "desc":"icecream,milk,sugar,flavours,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "800",
+                        "itemName":"Snacks",
+                        "itemColor":"#ffa502",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "8001",
+                                                "name": "Chicken Puff",
+                                                "price":"20",
+                                                "desc":"chicken,flour,salt,oil"
+                                            },
+                                            {
+                                                "subItemID": "8002",
+                                                "name": "Meat Roll",
+                                                "price":"30",
+                                                "desc":"meat,flour,egg,salt,oil"
+                                            },
+                                            {
+                                                "subItemID": "8005",
+                                                "name": "Samosa",
+                                                "price":"10",
+                                                "desc":"vegetables,oil,flour,salt"
+                                            },
+                                            {
+                                                "subItemID": "8007",
+                                                "name": "Creame Bun",
+                                                "price":"10",
+                                                "desc":"iflour,sugar,oil,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "8007",
+                                                "name": "Chicken Nuggets",
+                                                "price":"40",
+                                                "desc":"flour,salt,oil,chicken,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "200",
+                        "itemName":"Pastry",
+                        "itemColor":"#4b77be",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "2001",
+                                                "name": "Vancho",
+                                                "price":"450",
+                                                "desc":"vanilla,chocolate,flour,sugar,oil"
+                                            },
+                                            {
+                                                "subItemID": "2002",
+                                                "name": "Truffle",
+                                                "price":"600",
+                                                "desc":"chocolate,coffee,flour,egg,salt,oil,sugar"
+                                            },
+                                            {
+                                                "subItemID": "2005",
+                                                "name": "Black Forest",
+                                                "price":"550",
+                                                "desc":"cream,chocolate,oil,flour,sugar"
+                                            },
+                                            {
+                                                "subItemID": "2007",
+                                                "name": "Nudgetto",
+                                                "price":"810",
+                                                "desc":"dark chocolate,sugar,oil,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "2007",
+                                                "name": "Red Velvet",
+                                                "price":"700",
+                                                "desc":"fruits,flour,salt,oil,chocolate,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "300",
+                        "itemName":"Ice Creams",
+                        "itemColor":"#f58f84",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "3001",
+                                                "name": "Chocolate",
+                                                "price":"150",
+                                                "desc":"vanilla,chocolate,flour,sugar"
+                                            },
+                                            {
+                                                "subItemID": "3002",
+                                                "name": "Cookies n Nuts",
+                                                "price":"200",
+                                                "desc":",cookies,nuts,chocolate,flour,sugar"
+                                            },
+                                            {
+                                                "subItemID": "3005",
+                                                "name": "Dry Fruits",
+                                                "price":"250",
+                                                "desc":"dry fruits,chocolate,sugar"
+                                            },
+                                            {
+                                                "subItemID": "3006",
+                                                "name": "Strawberry",
+                                                "price":"110",
+                                                "desc":"strawberry,sugar,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "3007",
+                                                "name": "Vanilla",
+                                                "price":"100",
+                                                "desc":"vanilla,chocolate,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "5000",
+                        "itemName":"Sweets",
+                        "itemColor":"#82d007",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "50001",
+                                                "name": "Laddu",
+                                                "price":"10",
+                                                "desc":"sugar,raisins,flour,oil"
+                                            },
+                                            {
+                                                "subItemID": "50002",
+                                                "name": "Halwa",
+                                                "price":"200",
+                                                "desc":"sugar,raisins,flour,oil,nuts,ghee"
+                                            },
+                                            {
+                                                "subItemID": "50005",
+                                                "name": "Bhadusha",
+                                                "price":"20",
+                                                "desc":"sugar,flour,nuts,ghee"
+                                            },
+                                            {
+                                                "subItemID": "50006",
+                                                "name": "Mysore Pak",
+                                                "price":"25",
+                                                "desc":"sugar,flour,nuts,ghee,flavours"
+                                            },
+                                            {
+                                                "subItemID": "50007",
+                                                "name": "Gulab Jamun",
+                                                "price":"20",
+                                                "desc":"sugar,flour,nuts,ghee,flavours,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "6000",
+                        "itemName":"Chips",
+                        "itemColor":"#f19c50",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "60001",
+                                                "name": "Lays",
+                                                "price":"10",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "60002",
+                                                "name": "Springles",
+                                                "price":"99",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "50005",
+                                                "name": "Hippo",
+                                                "price":"20",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "50006",
+                                                "name": "Bingo",
+                                                "price":"25",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "50007",
+                                                "name": "Kurkure",
+                                                "price":"20",
+                                                "desc":"sugar,flour,nuts,ghee,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "50008",
+                                                "name": "Cheetos",
+                                                "price":"10",
+                                                "desc":"sugar,flour,nuts,ghee,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "50009",
+                                                "name": "Doritos",
+                                                "price":"30",
+                                                "desc":"sugar,flour,nuts,ghee,flavours,nuts"
+                                            }
+                                        ]
+                    },
+                    {
+                        "itemID": "8000",
+                        "itemName":"Cookies",
+                        "itemColor":"#63cdda",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "80001",
+                                                "name": "Bourbon",
+                                                "price":"100",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "80002",
+                                                "name": "Gooday",
+                                                "price":"99",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "80005",
+                                                "name": "Arrow root",
+                                                "price":"20",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "80006",
+                                                "name": "Hide and seek",
+                                                "price":"25",
+                                                "desc":""
+                                            },
+                                            {
+                                                "subItemID": "80007",
+                                                "name": "Oreo",
+                                                "price":"20",
+                                                "desc":"sugar,flour,nuts,ghee,flavours,nuts"
+                                            }
+
+                                        ]
+                    },
+                    {
+                        "itemID": "9000",
+                        "itemName":"Jams",
+                        "itemColor":"#f86adc",
+                        "subCategory": [
+                                            {
+                                                "subItemID": "9001",
+                                                "name": "Nutella",
+                                                "price":"450",
+                                                "desc":"vanilla,chocolate,flour,sugar,oil"
+                                            },
+                                            {
+                                                "subItemID": "9002",
+                                                "name": "Hersheys",
+                                                "price":"600",
+                                                "desc":"chocolate,coffee,flour,egg,salt,oil,sugar"
+                                            },
+                                            {
+                                                "subItemID": "9005",
+                                                "name": "Mixed Fruits",
+                                                "price":"550",
+                                                "desc":"cream,chocolate,oil,flour,sugar"
+                                            },
+                                            {
+                                                "subItemID": "9007",
+                                                "name": "Peanut Butter",
+                                                "price":"810",
+                                                "desc":"dark chocolate,sugar,oil,flavours,nuts"
+                                            },
+                                            {
+                                                "subItemID": "9007",
+                                                "name": "Pineapple",
+                                                "price":"700",
+                                                "desc":"fruits,flour,salt,oil,chocolate,nuts"
+                                            }
+                                        ]
+                    }
+
+                  ],
+    "status" : true,
+    "status_msg" : "Success"
+}

@@ -1,0 +1,86 @@
+{
+    "results" : [ 
+                    {
+                        "expenseID": "10",
+                        "expenseName":"Milk",
+                        "expenseType":"PURCHASE",
+                        "expenseUpdatedPerson": "ABC",
+                        "expenseQuantity":"2",
+                        "expenseUnit":"Liters",
+                        "expenseAmount":"Rs3500",
+                        "expenseUpdatedDate":"07-12-2018"
+                    },
+                    {
+                        "expenseID": "11",
+                        "expenseName":"Uber Morning",
+                        "expenseType":"EXPENSE",
+                        "expenseUpdatedPerson": "XCV",
+                        "expenseQuantity":"~",
+                        "expenseUnit":"~",
+                        "expenseAmount":"Rs3500",
+                        "expenseUpdatedDate":"27-12-2018"
+                    },
+                    {
+                        "expenseID": "12",
+                        "expenseName":"Electricity Bill",
+                        "expenseType":"EXPENSE",
+                        "expenseUpdatedPerson": "QWV",
+                        "expenseQuantity":"~",
+                        "expenseUnit":"~",
+                        "expenseAmount":"Rs3500",
+                        "expenseUpdatedDate":"27-12-2018"
+                    },
+                    {
+                        "expenseID": "13",
+                        "expenseName":"Cashew Nuts",
+                        "expenseType":"PURCHASE",
+                        "expenseUpdatedPerson": "RTY",
+                        "expenseQuantity":"500",
+                        "expenseUnit":"Milligrams",
+                        "expenseAmount":"Rs350",
+                        "expenseUpdatedDate":"27-06-2018"
+                    },
+                    {
+                        "expenseID": "14",
+                        "expenseName":"Fresh Creame",
+                        "expenseType":"PURCHASE",
+                        "expenseUpdatedPerson": "RTY",
+                        "expenseQuantity":"10",
+                        "expenseUnit":"Liters",
+                        "expenseAmount":"Rs700",
+                        "expenseUpdatedDate":"12-04-2018"
+                    },
+                    {
+                        "expenseID": "15",
+                        "expenseName":"Uber Evening Staff",
+                        "expenseType":"Advance",
+                        "expenseUpdatedPerson": "POU",
+                        "expenseQuantity":"~",
+                        "expenseUnit":"~",
+                        "expenseAmount":"Rs740",
+                        "expenseUpdatedDate":"10-08-2018"
+                    },
+                    {
+                        "expenseID": "16",
+                        "expenseName":"Petrol",
+                        "expenseType":"Other",
+                        "expenseUpdatedPerson": "MNB",
+                        "expenseQuantity":"~",
+                        "expenseUnit":"~",
+                        "expenseAmount":"Rs740",
+                        "expenseUpdatedDate":"31-11-2018"
+                    },
+                    {
+                        "expenseID": "17",
+                        "expenseName":"Fresh Creame",
+                        "expenseType":"PURCHASE",
+                        "expenseUpdatedPerson": "RTY",
+                        "expenseQuantity":"10",
+                        "expenseUnit":"Liters",
+                        "expenseAmount":"Rs500",
+                        "expenseUpdatedDate":"09-11-2018"
+                    }
+                  ],
+    "status" : true,
+    "status_msg" : "Success"
+}

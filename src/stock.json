@@ -1,0 +1,62 @@
+{
+    "results" : [
+                    {
+                        "itemID": "10",
+                        "itemName":"Milk",
+                        "itemUpdatedDate":"07-12-2018",
+                        "itemUpdatedPerson": "ABC",
+                        "itemQuantity":"2",
+                        "itemUnit":"Liters"
+                    },
+                    {
+                        "itemID": "20",
+                        "itemName":"Cashew",
+                        "itemUpdatedDate":"17-02-2018",
+                        "itemUpdatedPerson": "CVBC",
+                        "itemQuantity":"500",
+                        "itemUnit":"Grams"
+                    },
+                    {
+                        "itemID": "30",
+                        "itemName":"Blueberries",
+                        "itemUpdatedDate":"01-04-2018",
+                        "itemUpdatedPerson": "WQX",
+                        "itemQuantity":"2",
+                        "itemUnit":"Kilograms"
+                    },
+                    {
+                        "itemID": "90",
+                        "itemName":"Apple",
+                        "itemUpdatedDate":"17-11-2018",
+                        "itemUpdatedPerson": "BNM",
+                        "itemQuantity":"20",
+                        "itemUnit":"Count"
+                    },
+                    {
+                        "itemID": "50",
+                        "itemName":"Oreo Biscuit",
+                        "itemUpdatedDate":"21-2-2018",
+                        "itemUpdatedPerson": "ART",
+                        "itemQuantity":"20",
+                        "itemUnit":"Count"
+                    },
+                    {
+                        "itemID": "80",
+                        "itemName":"Chocolate(s)",
+                        "itemUpdatedDate":"24-12-2018",
+                        "itemUpdatedPerson": "SGB",
+                        "itemQuantity":"2",
+                        "itemUnit":"Kilograms"
+                    },
+                    {
+                        "itemID": "200",
+                        "itemName":"Strawberry Ice-Cream",
+                        "itemUpdatedDate":"10-12-2018",
+                        "itemUpdatedPerson": "FER",
+                        "itemQuantity":"2",
+                        "itemUnit":"Liters"
+                    }
+                  ],
+    "status" : true,
+    "status_msg" : "Success"
+}
